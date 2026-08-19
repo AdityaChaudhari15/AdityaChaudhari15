@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Chaudhari</h1>
+<h1 align="center">Hello, I'm Aditya Chaudhari</h1>
 <h3 align="center">MERN Stack Developer | Full Stack Engineer | Next.js & AI Enthusiast </h3>
 <h4>I’m a Computer Science engineer who loves building production-ready web applications, scalable backends, and clean user interfaces. I’ve shipped live projects, built API-driven apps, and I’m currently expanding into Next.js and AI-powered full-stack systems.</h4>
 
