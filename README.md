@@ -6,7 +6,7 @@
 
 - I’m currently working on **Building a production-ready Next.js full stack application with PostgreSQL, Node.js and modern UI components. Strengthening backend architecture and API design in Express.js. Integrating AI workflows using LangChain and LangGraph into full stack projects.**
 
-- I’m currently learning **Next.js for production-grade full stack applications (App Router, SSR, SEO). Advanced backend architecture with Node.js, Express, and PostgreSQL. AI application development using LangChain and LangGraph with Python & TypeScript.**
+- I’m currently learning **Next.js for production-grade full stack applications (App Router, SSR, SEO). Advanced backend architecture with Node.js, Express, and PostgreSQL. AI application development using LangChain and LangGraph and RAG Systems with Python & TypeScript.**
 
 <!-- - I’m looking to collaborate on **Open-source projects focused on React, Node.js and API-driven applications. Projects that integrate AI workflows into modern web applications.** -->
 
